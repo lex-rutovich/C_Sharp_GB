@@ -1,0 +1,15 @@
+C:\Users\Nbook\C#\Project\Les_1\bin\Debug\net7.0\Les_1.exe
+C:\Users\Nbook\C#\Project\Les_1\bin\Debug\net7.0\Les_1.deps.json
+C:\Users\Nbook\C#\Project\Les_1\bin\Debug\net7.0\Les_1.runtimeconfig.json
+C:\Users\Nbook\C#\Project\Les_1\bin\Debug\net7.0\Les_1.dll
+C:\Users\Nbook\C#\Project\Les_1\bin\Debug\net7.0\Les_1.pdb
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.csproj.AssemblyReference.cache
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.AssemblyInfoInputs.cache
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.AssemblyInfo.cs
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.csproj.CoreCompileInputs.cache
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.dll
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\refint\Les_1.dll
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.pdb
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\Les_1.genruntimeconfig.cache
+C:\Users\Nbook\C#\Project\Les_1\obj\Debug\net7.0\ref\Les_1.dll
